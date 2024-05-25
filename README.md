@@ -1,4 +1,4 @@
-Create a New Appointment
+-Create a New Appointment
 HTTP Method: POST
 Endpoint: /appointments/create
 
@@ -41,9 +41,9 @@ json
 }
 400 Bad Request: Invalid input
 
+___________________________________________________________________________________________________________________________________________________________________
 
-
-View All Appointments
+- View All Appointments
 HTTP Method: GET
 Endpoint: /appointments
 
@@ -87,9 +87,9 @@ json
   
 204 No Content: No appointments found
 
+___________________________________________________________________________________________________________________________________________________________________
 
-
-Retrieve a Single Appointment
+- Retrieve a Single Appointment
 HTTP Method: GET
 Endpoint: /appointments/{id}
 
@@ -121,9 +121,9 @@ json
 }
 404 Not Found: Appointment not found
 
+___________________________________________________________________________________________________________________________________________________________________
 
-
-Update Appointment Details
+- Update Appointment Details
 HTTP Method: PUT
 Endpoint: /appointments/{id}
 
@@ -167,9 +167,9 @@ json
 400 Bad Request: Invalid input
 404 Not Found: Appointment not found
 
+___________________________________________________________________________________________________________________________________________________________________
 
-
-Delete an Appointment
+- Delete an Appointment
 HTTP Method: DELETE
 Endpoint: /appointments/{id}
 
