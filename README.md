@@ -41,6 +41,8 @@ json
 }
 400 Bad Request: Invalid input
 
+
+
 View All Appointments
 HTTP Method: GET
 Endpoint: /appointments
@@ -85,6 +87,8 @@ json
   
 204 No Content: No appointments found
 
+
+
 Retrieve a Single Appointment
 HTTP Method: GET
 Endpoint: /appointments/{id}
@@ -116,6 +120,8 @@ json
   "createdAt": "2024-05-25T12:00:00Z"
 }
 404 Not Found: Appointment not found
+
+
 
 Update Appointment Details
 HTTP Method: PUT
@@ -160,6 +166,8 @@ json
 
 400 Bad Request: Invalid input
 404 Not Found: Appointment not found
+
+
 
 Delete an Appointment
 HTTP Method: DELETE
