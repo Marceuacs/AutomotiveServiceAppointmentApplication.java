@@ -1,4 +1,5 @@
-The Vehicle Management System is a comprehensive Spring Boot application designed to streamline the management of vehicle-related data and operations. The system encompasses functionalities for handling customer details, vehicle information, vehicle profiles, and service appointments, ensuring efficient organization and easy access to crucial information.
+The Vehicle Management System is a comprehensive Spring Boot application designed to streamline the management of vehicle-related data and operations. 
+The system encompasses functionalities for handling customer details, vehicle information, vehicle profiles, and service appointments, ensuring efficient organization and easy access to crucial information.
 
 
 
